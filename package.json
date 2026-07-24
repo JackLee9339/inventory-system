@@ -1,0 +1,12 @@
+{
+  "name": "inventory-system",
+  "version": "3.0.0",
+  "description": "产品库存管理系统 - 含登录认证、权限控制、员工管理",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
